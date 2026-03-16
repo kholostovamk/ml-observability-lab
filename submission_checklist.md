@@ -1,6 +1,5 @@
 # Submission Checklist
 
-Before submitting, confirm you have:
 
 - `app.py`
 - `docker-compose.yml`
